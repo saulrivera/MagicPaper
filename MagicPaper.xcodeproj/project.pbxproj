@@ -13,6 +13,7 @@
 		B2EF33CA247207C20066DEC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2EF33C8247207C20066DEC9 /* Main.storyboard */; };
 		B2EF33CC247207C40066DEC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2EF33CB247207C40066DEC9 /* Assets.xcassets */; };
 		B2EF33CF247207C40066DEC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2EF33CD247207C40066DEC9 /* LaunchScreen.storyboard */; };
+		B2EF33D7247207E50066DEC9 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B2EF33D6247207DF0066DEC9 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B2EF33CB247207C40066DEC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2EF33CE247207C40066DEC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2EF33D0247207C40066DEC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2EF33D6247207DF0066DEC9 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B2EF33C2247207C20066DEC9 /* AppDelegate.swift */,
+				B2EF33D6247207DF0066DEC9 /* harrypotter.mp4 */,
 				B2EF33C4247207C20066DEC9 /* art.scnassets */,
 				B2EF33C6247207C20066DEC9 /* ViewController.swift */,
 				B2EF33C8247207C20066DEC9 /* Main.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				B2EF33C5247207C20066DEC9 /* art.scnassets in Resources */,
 				B2EF33CF247207C40066DEC9 /* LaunchScreen.storyboard in Resources */,
+				B2EF33D7247207E50066DEC9 /* harrypotter.mp4 in Resources */,
 				B2EF33CC247207C40066DEC9 /* Assets.xcassets in Resources */,
 				B2EF33CA247207C20066DEC9 /* Main.storyboard in Resources */,
 			);
